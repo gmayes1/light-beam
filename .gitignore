@@ -1,0 +1,8 @@
+bin/
+.DS_Store
+*.jpg
+*.png
+*.tif
+*.rgbah
+*_report.json
+__pycache__/

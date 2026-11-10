@@ -1,0 +1,7 @@
+{
+ "raw": "/path/to/photos/DSC_0001.NEF",
+ "out": "/path/to/output/DSC_0001_edit",
+ "auto_crop": true,
+ "destination": "web",
+ "stack_auto": true
+}
